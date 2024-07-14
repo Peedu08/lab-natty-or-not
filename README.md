@@ -25,5 +25,4 @@ Criar algo realista com IA foi um desafio interessante. Usar IA generativa para 
 
 ### Link do E-Book
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-
+- [E-BOOK](https://github.com/Peedu08/lab-natty-or-not/blob/b6111881f5ad0a12afe1a16d78726f5c581e9038/Ebook%20A%20Era%20da%20IA.pdf)
