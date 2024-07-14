@@ -1,51 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA na Vida Cotidiana ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O objetivo deste projeto é criar um e-book que explora diversos tipos de tecnologias de inteligência artificial (IA).
+O e-book detalha como a IA está integrada no nosso dia a dia e como ela transforma vários aspectos da nossa vida.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+GPT-3: para a geração dos textos
+Leonardo.ai: para a criação das imagens
+Canva: para a composição do e-book com textos e imagens geradas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para elaborar o conteúdo do e-book, utilizei o GPT-3 para gerar textos e criar o tema que o e-book abordaria.
+Em seguida, usei o Leonardo.ai para gerar as imagens de acordo com os prompts criados pelo GPT-3.
+Não segui nenhuma metodologia específica para organizar os textos e as imagens no e-book, apenas inseri o conteúdo de forma intuitiva no Canva.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto resultou em um e-book completo com textos detalhados sobre o tema "IA na Vida Cotidiana" e imagens geradas de forma satisfatória que complementam o conteúdo textual.
+Na minha opinião, as imagens foram o elemento que mais se destacou, proporcionando um visual atrativo e contextualizado ao e-book.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão
+Criar algo realista com IA foi um desafio interessante. Usar IA generativa para criar o conteúdo foi uma experiência positiva, que mostrou o potencial dessas tecnologias em facilitar e enriquecer o processo criativo.
 ```
 
-### Exemplos e Insigths
+### Link do E-Book
 
 - [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
